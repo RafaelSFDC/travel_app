@@ -1,4 +1,4 @@
 {
   "editor.inlineSuggest.showToolbar": "onHover",
-  "conventionalCommits.scopes": ["Added Features"]
+  "conventionalCommits.scopes": ["Added Features", "Added an Component"]
 }
